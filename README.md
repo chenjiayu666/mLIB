@@ -1,2 +1,1 @@
-two way add text
-test pull
+用于同步altium designer器件库
