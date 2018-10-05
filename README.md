@@ -1,1 +1,1 @@
-newA add master
+two way add text
